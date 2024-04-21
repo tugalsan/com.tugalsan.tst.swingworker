@@ -1,0 +1,4 @@
+--patch-module
+com.tugalsan.tst.swingworker=_
+--add-reads
+com.tugalsan.tst.swingworker=ALL-UNNAMED
